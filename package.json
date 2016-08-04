@@ -1,6 +1,6 @@
 {
   "name": "link-css",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "insert a link of css into the <head>",
   "main": "index.js",
   "dependencies": {},
